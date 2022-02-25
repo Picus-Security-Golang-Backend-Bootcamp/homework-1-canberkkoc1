@@ -10,7 +10,7 @@ Bu uygulama Patika ve Picus Security iş birliğinde gerçekleşen Golang Backen
 - [Uygulama Öncesi Hazırlık](#uygulama-%C3%B6ncesi-haz%C4%B1rl%C4%B1k)  
 - [Uygulama Aşamaları](#uygulama-a%C5%9Famalar%C4%B1)  
 - [Uygulama Çıktısı](#uygulama-%C3%A7%C4%B1kt%C4%B1s%C4%B1)  
-- [Kaynaklar](#kaynaklar)  
+
 
 <br>  
 <br>  
